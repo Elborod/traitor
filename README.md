@@ -1,7 +1,7 @@
 # Traitor
 Первый
 <<<<<<< HEAD
-Автоматически exp low-hanging fruit to pop a root shell. Linux privilege escalation made легче!
+Автоматически exp low-hanging fruit to poppipop a root shell. Linux privilege escalation made легче!
 =======
 Автоматически exploit low-hanging fruit to pop a root shell. Linux privilege escalation made легкe!
 >>>>>>> branch2
